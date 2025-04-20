@@ -72,7 +72,7 @@
 
 <details>
   <summary><strong>1. Clone the Repository</strong></summary>
-  <pre><code>git clone https://github.com/yourusername/registrar-system.git
+  <pre><code>git clone https://github.com/ImSauce/Bethel-Regestrar-Management-System.git
 cd registrar-system</code></pre>
 </details>
 
